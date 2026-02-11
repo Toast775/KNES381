@@ -1,6 +1,3 @@
-<!-- add table of contents and functioning code block -->
-
-
 <h1 align="center"> Markdown-HTML assignment
 </h1>
 
@@ -14,3 +11,4 @@
 
 <a href="photos/photos_extra/">Browse Extra Photos</a>
 
+<em>This will be my emphasized text</em>
