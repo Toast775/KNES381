@@ -10,6 +10,7 @@
 
 <a href="readme.md" target="_blank">Click me!</a>
 
-<p> VO<sub>2</sub>, Fe<sup>2+</sup>, 11<sup>th</sup></p>
+<p> V&#775;O<sub>2</sub>, Fe<sup>2+</sup>, 11<sup>th</sup>, X&#775;</p> 
 
-<a href="photos/photos_extra/">Browse Photos</a>
+<a href="photos/photos_extra/">Browse Extra Photos</a>
+
