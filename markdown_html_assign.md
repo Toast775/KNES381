@@ -12,3 +12,4 @@
 
 <p> VO<sub>2</sub>, Fe<sup>2+</sup>, 11<sup>th</sup></p>
 
+<a href="photos/photos_extra/">Browse Photos</a>
